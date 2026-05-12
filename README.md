@@ -1,7 +1,5 @@
 # E-Commerce Sales Analysis
 
-# E-Commerce Sales Analysis
-
 SQL portfolio project analyzing customer behavior, sales trends, and product performance.
 
 ## Dataset
